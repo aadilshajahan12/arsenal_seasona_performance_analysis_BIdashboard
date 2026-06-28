@@ -35,7 +35,7 @@ It focuses on Arsenal FC’s season performance, structured into three analytica
   
 ## 📂 Repository Structure
 ```
-arsenal_seasona_performance_analysis_BIdashboard/
+arsenal_seasonal_performance_analysis_BIdashboard/
 │          
 ├── match.pbix     # Power BI report files (.pbix)
 ├── pages/     # Screenshots of dashboard pages
